@@ -2,6 +2,7 @@
 
 * Студент: [Сергей Смирнов](https://up.htmlacademy.ru/javascript/12/user/510).
 * Наставник: [`Дмитрий Харин`].
+(https://htmlacademy.ru/profile/dihar)
 
 ---
 
