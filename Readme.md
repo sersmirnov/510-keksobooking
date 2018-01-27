@@ -1,8 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Сергей Смирнов](https://up.htmlacademy.ru/javascript/12/user/510).
-* Наставник: [`Дмитрий Харин`].
-(https://htmlacademy.ru/profile/dihar)
+* Наставник: [Дмитрий Харин](https://htmlacademy.ru/profile/dihar).
 
 ---
 
